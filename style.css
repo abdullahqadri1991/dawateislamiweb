@@ -1,0 +1,28 @@
+.ABOUTDAWATEISLAMI:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+
+}
+.btn:hover{
+    background-color: rgba(239, 139, 139, 0.619);
+    border: 1px solid;
+}
+
+.card:hover{
+    background-color: rgb(227, 12, 9);
+    border: 1px solid;
+    border-radius: 20px;
+    cursor: pointer;
+    transform: scale(1.1);
+
+}
+#footer{
+    color: white;
+    background-color: rgb(0, 0, 0);
+}
+.SOCIAL:hover{
+    cursor: pointer;
+    transform: scaleX(0.8);
+background-color: tomato
+
+}
